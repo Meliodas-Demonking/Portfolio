@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 As Co-Founder & CTO of Netster Agency and a Computer Science undergraduate, I specialize in building robust, full-stack applications with a focus on integrating generative AI and ensuring system security. I bridge the gap between technical execution and strategic leadership, from drafting comprehensive PRDs to developing scalable React prototypes and researching IoT vulnerabilities.<pre>
-[![Portfolio](https://img.shields.io/badge/Click%20Here-brightgreen)](https://meliodas-demonking.github.io/Portfolio/)</pre>
+[![Portfolio](https://img.shields.io/badge/Portfolios-brightgreen)](https://meliodas-demonking.github.io/Portfolio/)</pre>
 
 
 ---
