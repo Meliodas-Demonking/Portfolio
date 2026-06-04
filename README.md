@@ -2,7 +2,7 @@
 # Geeten Tembhurne
 **Computer Science Undergraduate | Co-Founder & CTO at Netster Agency | Full-Stack Developer**
 
-📍 Nagpur, Maharashtra, India | ✉️ `geetentembhurne@gmail.com` | 🔗 `[[LinkedIn]](https://www.linkedin.com/in/geeten-tembhurne/)` | 🐙 `[[GitHub URL]](https://github.com/Meliodas-Demonking/)`
+📍 Nagpur, Maharashtra, India | ✉️ `geetentembhurne@gmail.com` | 🔗 `[LinkedIn](https://www.linkedin.com/in/geeten-tembhurne/)` | 🐙 `[GitHub URL](https://github.com/Meliodas-Demonking/)`
 
 ---
 
